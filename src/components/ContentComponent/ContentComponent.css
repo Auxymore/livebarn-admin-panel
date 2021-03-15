@@ -1,0 +1,12 @@
+
+.hover-highlight > .ant-spin-nested-loading > .ant-spin-container > div > .ant-table-container > .ant-table-body > table > tbody > tr:hover > td {
+    background-color: #5aabf6;
+    cursor: pointer;
+    
+}
+
+.hover-highlight > .ant-spin-nested-loading > .ant-spin-container > div > .ant-table-container > .ant-table-header > table > thead > tr > th {
+    font-size: 15px;
+    font-weight: 600;
+}
+

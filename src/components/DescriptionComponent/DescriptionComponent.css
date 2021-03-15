@@ -1,0 +1,9 @@
+
+.description-container {
+   padding: 15px;
+}
+
+.description-container > .ant-descriptions-view > table > tbody > tr > th > .ant-descriptions-item-container > span {
+    font-size: 14px;
+    font-weight: 600;  
+}
